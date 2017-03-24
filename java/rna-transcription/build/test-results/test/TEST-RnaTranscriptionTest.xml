@@ -1,24 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="RnaTranscriptionTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2017-03-24T20:31:56" hostname="Michaels-MacBook-Pro-2.local" time="0.005">
+<testsuite name="RnaTranscriptionTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2017-03-24T21:00:05" hostname="Michaels-MacBook-Pro-2.local" time="0.003">
   <properties/>
-  <testcase name="testRnaTranscriptionOfThymineIsAdenine" classname="RnaTranscriptionTest" time="0.002"/>
+  <testcase name="testRnaTranscriptionOfThymineIsAdenine" classname="RnaTranscriptionTest" time="0.001"/>
   <testcase name="testRnaTranscription" classname="RnaTranscriptionTest" time="0.0"/>
   <testcase name="testRnaTranscriptionOfCytosineIsGuanine" classname="RnaTranscriptionTest" time="0.0"/>
-  <testcase name="testRnaTranscriptionOfGuanineIsCytosine" classname="RnaTranscriptionTest" time="0.001"/>
+  <testcase name="testRnaTranscriptionOfGuanineIsCytosine" classname="RnaTranscriptionTest" time="0.0"/>
   <testcase name="testRnaTranscriptionOfEmptyDnaIsEmptyRna" classname="RnaTranscriptionTest" time="0.0"/>
   <testcase name="testRnaTranscriptionOfAdenineIsUracil" classname="RnaTranscriptionTest" time="0.0"/>
-  <system-out><![CDATA[{=, A=U, C=G, T=A, G=C}
-[T]
-{=, A=U, C=G, T=A, G=C}
-[A, C, G, T, G, G, T, C, T, T, A, A]
-{=, A=U, C=G, T=A, G=C}
-[C]
-{=, A=U, C=G, T=A, G=C}
-[G]
-{=, A=U, C=G, T=A, G=C}
-[]
-{=, A=U, C=G, T=A, G=C}
-[A]
-]]></system-out>
+  <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

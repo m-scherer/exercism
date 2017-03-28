@@ -1,21 +1,42 @@
+import java.util.Map;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Arrays;
+import java.util.ArrayList;
+
 public class RnaTranscription {
 
-    public String ofDna(String dnaString) {
-        if(dnaString.length()==0) return "";
-        StringBuilder DNA = new StringBuilder(dnaString);
+    private Map<String, String> rna() {
+        Map<String, String> rna = new HashMap<>();
+        rna.put("G", "C");
+        rna.put("C", "G");
+        rna.put("T", "A");
+        rna.put("A", "U");
+        rna.put("", "");
 
-        for (int i = 0; i < DNA.length(); i++)
-            switch( DNA.charAt(i) ) {
-                case 'C':   DNA.setCharAt(i, 'G');
-                            break;
-                case 'G':   DNA.setCharAt(i, 'C');
-                            break;
-                case 'T':   DNA.setCharAt(i, 'A');
-                            break;
-                case 'A':   DNA.setCharAt(i, 'U');
-                            break;
-                default:    break;
-            }
-        return DNA.toString();
+        return rna;
     }
+
+    public String ofDna(String dnaString) {
+        String[] letters = dnaString.split("");
+
+        StringBuilder newString = new StringBuilder();
+        for (Object convertedLetter : convertStrands(letters)) {
+            newString.append(convertedLetter);
+        }
+        String output = newString.toString();
+
+        return output;
+    }
+
+    public ArrayList convertStrands(String[] letters) {
+        List<String> splitString = Arrays.asList(letters);
+
+        ArrayList<String> convertedStrands = new ArrayList<>();
+        for (String letter : splitString ) {
+            convertedStrands.add( rna().get(letter) );
+        }
+        return convertedStrands;
+    }
+
 }

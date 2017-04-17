@@ -14,8 +14,6 @@ public static class Bob
 			return "Whoa, chill out!";
 		} else if (trimStatement.Substring(trimStatement.Length - 1) == "?") {
 			return "Sure.";
-		} else if (trimStatement.ToUpper() == trimStatement && trimStatement.ToLower() == trimStatement){
-			return "Whatever.";	
 		} else {
 			return "Whatever.";
 		}

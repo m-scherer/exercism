@@ -2,8 +2,8 @@
   <MonoDevelop.Ide.ItemProperties.Bob PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Bob.cs">
     <Files>
-      <File FileName="Bob.cs" Line="9" Column="2" />
-      <File FileName="BobTest.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Bob.cs" Line="19" Column="4" />
+      <File FileName="BobTest.cs" Line="107" Column="10" NotebookId="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

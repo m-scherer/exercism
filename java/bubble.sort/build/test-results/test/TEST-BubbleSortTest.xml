@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BubbleSortTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2017-04-08T13:18:35" hostname="Michaels-MacBook-Pro-2.local" time="0.007">
+  <properties/>
+  <testcase name="testItCanSortTwo" classname="BubbleSortTest" time="0.003"/>
+  <testcase name="testItCanSortTheWholeAlphabet" classname="BubbleSortTest" time="0.003"/>
+  <testcase name="testItCanSortThree" classname="BubbleSortTest" time="0.0"/>
+  <system-out><![CDATA[[Ljava.lang.Character;@6d5c6169
+[Ljava.lang.Character;@7c811502
+[Ljava.lang.Character;@7c811502
+[Ljava.lang.Character;@7c811502
+[Ljava.lang.Character;@7c811502
+[Ljava.lang.Character;@7c811502
+[Ljava.lang.Character;@7c811502
+[Ljava.lang.Character;@7c811502
+[Ljava.lang.Character;@7c811502
+[Ljava.lang.Character;@7c811502
+[Ljava.lang.Character;@7c811502
+[Ljava.lang.Character;@7c811502
+[Ljava.lang.Character;@7c811502
+[Ljava.lang.Character;@7c811502
+[Ljava.lang.Character;@7c811502
+[Ljava.lang.Character;@7c811502
+[Ljava.lang.Character;@7c811502
+[Ljava.lang.Character;@7c811502
+[Ljava.lang.Character;@7c811502
+[Ljava.lang.Character;@7c811502
+[Ljava.lang.Character;@7c811502
+[Ljava.lang.Character;@7c811502
+[Ljava.lang.Character;@7c811502
+[Ljava.lang.Character;@7c811502
+[Ljava.lang.Character;@7c811502
+[Ljava.lang.Character;@7c811502
+[Ljava.lang.Character;@36fd5dbe
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

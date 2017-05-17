@@ -21,7 +21,6 @@ public class BubbleSort {
         } else {
             sort(input);
         }
-
         return input;
     }
 }

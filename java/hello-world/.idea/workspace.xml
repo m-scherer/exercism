@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="78c261b1-a19e-4a2f-aee3-5170d7050281" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gradle/buildOutputCleanup/built.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gradle/buildOutputCleanup/cache.properties.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bubble.sort/.gradle/3.3/taskArtifacts/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bubble.sort/.gradle/3.3/taskArtifacts/fileSnapshots.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bubble.sort/.gradle/3.3/taskArtifacts/taskArtifacts.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bubble.sort/.gradle/3.3/taskArtifacts/taskArtifacts.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bubble.sort/.gradle/3.4.1/file-changes/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bubble.sort/.gradle/3.4.1/fileContent/annotation-processors.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bubble.sort/.gradle/3.4.1/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bubble.sort/.gradle/3.4.1/taskHistory/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bubble.sort/.gradle/3.4.1/taskHistory/fileSnapshots.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bubble.sort/.gradle/3.4.1/taskHistory/jvmClassSignatures.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bubble.sort/.gradle/3.4.1/taskHistory/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bubble.sort/.gradle/3.4.1/taskHistory/taskHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bubble.sort/.gradle/buildOutputCleanup/built.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bubble.sort/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bubble.sort/.gradle/buildOutputCleanup/cache.properties.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bubble.sort/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bubble.sort/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bubble.sort/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bubble.sort/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bubble.sort/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bubble.sort/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bubble.sort/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bubble.sort/.idea/modules/bubble.sort.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bubble.sort/.idea/modules/bubble.sort_main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bubble.sort/.idea/modules/bubble.sort_test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bubble.sort/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bubble.sort/bubble.sort.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bubble.sort/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bubble.sort/build/classes/main/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bubble.sort/build/classes/test/BubbleSortTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bubble.sort/build/reports/tests/test/classes/BubbleSortTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bubble.sort/build/reports/tests/test/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bubble.sort/build/reports/tests/test/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bubble.sort/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bubble.sort/build/reports/tests/test/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bubble.sort/build/reports/tests/test/packages/default-package.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bubble.sort/build/test-results/test/TEST-BubbleSortTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bubble.sort/build/test-results/test/binary/output.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bubble.sort/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bubble.sort/build/test-results/test/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bubble.sort/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bubble.sort/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bubble.sort/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bubble.sort/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bubble.sort/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bubble.sort/src/main/java/BubbleSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bubble.sort/src/test/java/BubbleSortTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle.bubble.sort/.gradle/3.3/taskArtifacts/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle.bubble.sort/.gradle/3.3/taskArtifacts/fileSnapshots.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle.bubble.sort/.gradle/3.3/taskArtifacts/taskArtifacts.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle.bubble.sort/.gradle/3.3/taskArtifacts/taskArtifacts.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle.bubble.sort/.gradle/3.4.1/file-changes/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle.bubble.sort/.gradle/3.4.1/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle.bubble.sort/.gradle/3.4.1/taskHistory/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle.bubble.sort/.gradle/3.4.1/taskHistory/taskHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle.bubble.sort/.gradle/buildOutputCleanup/built.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle.bubble.sort/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle.bubble.sort/.gradle/buildOutputCleanup/cache.properties.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle.bubble.sort/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle.bubble.sort/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle.bubble.sort/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle.bubble.sort/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle.bubble.sort/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle.bubble.sort/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle.bubble.sort/.idea/modules/bubble.sort.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle.bubble.sort/.idea/modules/bubble.sort_main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle.bubble.sort/.idea/modules/bubble.sort_test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle.bubble.sort/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle.bubble.sort/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle.bubble.sort/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle.bubble.sort/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle.bubble.sort/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle.bubble.sort/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle.bubble.sort/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle.bubble.sort/src/.gradle/3.4.1/file-changes/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle.bubble.sort/src/.gradle/3.4.1/taskHistory/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle.bubble.sort/src/.gradle/3.4.1/taskHistory/fileSnapshots.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle.bubble.sort/src/.gradle/3.4.1/taskHistory/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle.bubble.sort/src/.gradle/3.4.1/taskHistory/taskHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle.bubble.sort/src/.gradle/buildOutputCleanup/built.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle.bubble.sort/src/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle.bubble.sort/src/.gradle/buildOutputCleanup/cache.properties.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle.bubble.sort/src/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle.bubble.sort/src/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle.bubble.sort/src/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle.bubble.sort/src/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle.bubble.sort/src/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle.bubble.sort/src/main/java/BubbleSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle.bubble.sort/src/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle.bubble.sort/src/test/java/BubbleSortTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hamming/.gradle/3.4.1/file-changes/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hamming/.gradle/3.4.1/fileContent/annotation-processors.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hamming/.gradle/3.4.1/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hamming/.gradle/3.4.1/taskHistory/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hamming/.gradle/3.4.1/taskHistory/fileSnapshots.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hamming/.gradle/3.4.1/taskHistory/jvmClassSignatures.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hamming/.gradle/3.4.1/taskHistory/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hamming/.gradle/3.4.1/taskHistory/taskHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hamming/.gradle/buildOutputCleanup/built.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hamming/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hamming/.gradle/buildOutputCleanup/cache.properties.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hamming/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hamming/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hamming/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hamming/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hamming/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hamming/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hamming/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hamming/.idea/modules/hamming.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hamming/.idea/modules/hamming_main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hamming/.idea/modules/hamming_test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hamming/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hamming/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hamming/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hamming/build/classes/main/Hamming.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hamming/build/classes/test/HammingTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hamming/build/reports/tests/test/classes/HammingTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hamming/build/reports/tests/test/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hamming/build/reports/tests/test/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hamming/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hamming/build/reports/tests/test/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hamming/build/reports/tests/test/packages/default-package.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hamming/build/test-results/test/TEST-HammingTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hamming/build/test-results/test/binary/output.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hamming/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hamming/build/test-results/test/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hamming/src/main/java/Hamming.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hamming/src/test/java/HammingTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.4.1/file-changes/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.4.1/fileContent/annotation-processors.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.4.1/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.4.1/taskHistory/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.4.1/taskHistory/fileSnapshots.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.4.1/taskHistory/jvmClassSignatures.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.4.1/taskHistory/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.4.1/taskHistory/taskHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/built.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GETTING_STARTED.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TUTORIAL.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/main/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/test/HelloWorldTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/HelloWorldTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-HelloWorldTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/HelloWorldTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pangram/.gradle/3.4.1/file-changes/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pangram/.gradle/3.4.1/fileContent/annotation-processors.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pangram/.gradle/3.4.1/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pangram/.gradle/3.4.1/taskHistory/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pangram/.gradle/3.4.1/taskHistory/fileSnapshots.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pangram/.gradle/3.4.1/taskHistory/jvmClassSignatures.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pangram/.gradle/3.4.1/taskHistory/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pangram/.gradle/3.4.1/taskHistory/taskHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pangram/.gradle/buildOutputCleanup/built.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pangram/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pangram/.gradle/buildOutputCleanup/cache.properties.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pangram/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pangram/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pangram/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pangram/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pangram/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pangram/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pangram/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pangram/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pangram/.idea/modules/pangram.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pangram/.idea/modules/pangram_main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pangram/.idea/modules/pangram_test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pangram/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pangram/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pangram/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pangram/build/classes/main/PangramChecker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pangram/build/classes/test/PangramCheckerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pangram/build/reports/tests/test/classes/PangramCheckerTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pangram/build/reports/tests/test/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pangram/build/reports/tests/test/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pangram/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pangram/build/reports/tests/test/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pangram/build/reports/tests/test/packages/default-package.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pangram/build/test-results/test/TEST-PangramCheckerTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pangram/build/test-results/test/binary/output.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pangram/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pangram/build/test-results/test/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pangram/src/main/java/PangramChecker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pangram/src/test/java/PangramCheckerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/.gradle/3.4.1/file-changes/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/.gradle/3.4.1/fileContent/annotation-processors.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/.gradle/3.4.1/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/.gradle/3.4.1/taskHistory/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/.gradle/3.4.1/taskHistory/fileSnapshots.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/.gradle/3.4.1/taskHistory/jvmClassSignatures.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/.gradle/3.4.1/taskHistory/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/.gradle/3.4.1/taskHistory/taskHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/.gradle/buildOutputCleanup/built.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/.gradle/buildOutputCleanup/cache.properties.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/.idea/modules/raindrops.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/.idea/modules/raindrops_main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/.idea/modules/raindrops_test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/build/classes/main/RaindropConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/build/classes/test/RaindropConverterTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/build/reports/tests/test/classes/RaindropConverterTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/build/reports/tests/test/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/build/reports/tests/test/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/build/reports/tests/test/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/build/reports/tests/test/packages/default-package.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/build/test-results/test/TEST-RaindropConverterTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/build/test-results/test/binary/output.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/build/test-results/test/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/src/main/java/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/src/main/java/RaindropConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raindrops/src/test/java/RaindropConverterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/.gradle/3.4.1/file-changes/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/.gradle/3.4.1/fileContent/annotation-processors.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/.gradle/3.4.1/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/.gradle/3.4.1/taskHistory/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/.gradle/3.4.1/taskHistory/fileSnapshots.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/.gradle/3.4.1/taskHistory/jvmClassSignatures.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/.gradle/3.4.1/taskHistory/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/.gradle/3.4.1/taskHistory/taskHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/.gradle/buildOutputCleanup/built.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/.gradle/buildOutputCleanup/cache.properties.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/.idea/modules/rna-transcription_main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/.idea/modules/rna-transcription_test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/.idea/rna-transcription.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/build/classes/main/RnaTranscription.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/build/classes/test/RnaTranscriptionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/build/reports/tests/test/classes/RnaTranscriptionTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/build/reports/tests/test/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/build/reports/tests/test/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/build/reports/tests/test/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/build/reports/tests/test/packages/default-package.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/build/test-results/test/TEST-RnaTranscriptionTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/build/test-results/test/binary/output.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/build/test-results/test/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/src/main/java/RnaTranscription.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/src/test/java/RnaTranscriptionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/.gradle/3.4.1/file-changes/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/.gradle/3.4.1/fileContent/annotation-processors.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/.gradle/3.4.1/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/.gradle/3.4.1/taskHistory/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/.gradle/3.4.1/taskHistory/fileSnapshots.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/.gradle/3.4.1/taskHistory/jvmClassSignatures.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/.gradle/3.4.1/taskHistory/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/.gradle/3.4.1/taskHistory/taskHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/.gradle/buildOutputCleanup/built.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/.gradle/buildOutputCleanup/cache.properties.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/.idea/modules/scrabble-score.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/.idea/modules/scrabble-score_main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/.idea/modules/scrabble-score_test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/build/classes/main/Scrabble.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/build/classes/test/ScrabbleScoreTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/build/reports/tests/test/classes/ScrabbleScoreTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/build/reports/tests/test/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/build/reports/tests/test/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/build/reports/tests/test/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/build/reports/tests/test/packages/default-package.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/build/test-results/test/TEST-ScrabbleScoreTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/build/test-results/test/binary/output.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/build/test-results/test/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/src/main/java/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/src/main/java/Scrabble.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrabble-score/src/test/java/ScrabbleScoreTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2jLBfXjAbgDNCFixAZXpWOCwYum" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.GreeterTest.executor": "Run",
+    "Gradle.GreeterTest.testThatGreeterReturnsTheCorrectGreeting.executor": "Run",
+    "Gradle.HelloWorldTest.executor": "Run",
+    "Gradle.hello-world [dependencies].executor": "Run",
+    "Gradle.hello-world [test].executor": "Run",
+    "Gradle.hello-world.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/mscherer/Code/exercism/java/hello-world",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.notifications"
+  }
+}]]></component>
+  <component name="RunManager" selected="Gradle.hello-world [test]">
+    <configuration name="GreeterTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;GreeterTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="hello-world [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="dependencies" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="hello-world [test]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.hello-world [test]" />
+        <item itemvalue="Gradle.GreeterTest" />
+        <item itemvalue="Gradle.hello-world [dependencies]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78c261b1-a19e-4a2f-aee3-5170d7050281" name="Changes" comment="" />
+      <created>1721156580163</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721156580163</updated>
+    </task>
+    <servers />
+  </component>
+</project>
